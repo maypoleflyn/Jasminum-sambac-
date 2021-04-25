@@ -17,6 +17,9 @@ Jasminum sambac genome assembly
      
      Kegg: KEGG annotation file
      
+     
+     
+     If you have any questions, please do not hesitate to contact Fei Shen (shenf1028@gmail.com)
 
  
 
