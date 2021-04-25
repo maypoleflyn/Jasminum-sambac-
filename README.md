@@ -1,5 +1,5 @@
 # Jasminum-sambac-genome
-Jasminum sambac genome
+Jasminum sambac genome assembly 
 
 01-Genome
 
